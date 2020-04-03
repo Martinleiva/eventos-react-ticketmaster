@@ -1,3 +1,9 @@
+# Eventos React
+
+Proyecto usando React y Hooks consultando una API-Rest de TicketMaster para enventos.
+
+Link al proyecto [Eventos React](https://heuristic-hopper-82d911.netlify.com/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
